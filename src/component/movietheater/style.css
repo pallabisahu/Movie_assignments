@@ -17,9 +17,24 @@
 }
 .lineStyle{
     color: #000000;
+    
+}
+.genre{
+    color: #000000;
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+.movieTitle{
+    color: #666666;
+    font-size: 1.2rem;
+    font-weight: 500;
 }
 
-.movieTitle{
-    color: #000000;
-    font-size: 1.2rem;
+.imdbRating{
+    color: #999999;
+    font-size: 1rem;
+}
+.description{
+    font-size: 1rem;
+    color: #b3b3b3;
 }
