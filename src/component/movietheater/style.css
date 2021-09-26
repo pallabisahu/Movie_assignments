@@ -1,0 +1,25 @@
+.parentDiv{
+    background-color: #e6e6e6;
+}
+
+.movieHeaderText{
+    color: #000000;
+    font-size: 1.5rem;
+}
+
+.movieCard{
+    width:18rem;
+   
+}
+.moviePoster{
+    height:18rem;
+    width: 18rem;
+}
+.lineStyle{
+    color: #000000;
+}
+
+.movieTitle{
+    color: #000000;
+    font-size: 1.2rem;
+}
